@@ -1,0 +1,2 @@
+this is some text file
+with 2 lines and special char µ
